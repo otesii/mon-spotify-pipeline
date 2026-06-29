@@ -1,8 +1,8 @@
 # mon-spotify-pipeline
 
-MUSIC ON! TV（エムオン!）の m-on.jp オンエアリストTSVを取得し、対象番組の楽曲リストで Spotify プレイリストを自動更新するパイプライン。
+MUSIC ON! TV（エムオン!）の m-on.jp [オンエアリスト](https://www.m-on.jp/oa/)のTSVを取得し、対象番組の楽曲リストで Spotify プレイリストを自動更新するパイプライン。
 
-詳細仕様は [`../仕様書.md`](../仕様書.md) を参照。
+詳細仕様は [`./仕様書.md`](./仕様書.md) を参照。
 
 ## 構成
 
